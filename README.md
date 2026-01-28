@@ -1,1 +1,2 @@
-# PL_RS_project
+# Planning and Reasoning course project
+
