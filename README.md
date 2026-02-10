@@ -15,7 +15,7 @@ Both PDDL and IndiGolog language has been used to modelize the problem and study
 * SWI-Prolog (install with apt command or clone the official repo)
 
 
-### 📄 License
+### License
 
 This project is provided for educational and academic use only.
 
