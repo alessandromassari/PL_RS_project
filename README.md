@@ -8,8 +8,16 @@ Both PDDL and IndiGolog language has been used to modelize the problem and study
 * classical planning (PDDL)
 * logical reasoning and reactive execution (IndiGolog)
 
----
+
 ### Prerequisites
 
 * ENHSP-20 Planner (or later version)
 * SWI-Prolog (install with apt command or clone the official repo)
+
+
+### 📄 License
+
+This project is provided for educational and academic use only.
+
+© 2026 [Alessandro Massari, Rong Zeng]
+
